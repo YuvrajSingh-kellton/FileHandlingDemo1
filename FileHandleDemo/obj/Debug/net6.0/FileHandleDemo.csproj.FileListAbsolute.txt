@@ -1,0 +1,15 @@
+D:\C# Programs\FileHandleDemo\bin\Debug\net6.0\FileHandleDemo.exe
+D:\C# Programs\FileHandleDemo\bin\Debug\net6.0\FileHandleDemo.deps.json
+D:\C# Programs\FileHandleDemo\bin\Debug\net6.0\FileHandleDemo.runtimeconfig.json
+D:\C# Programs\FileHandleDemo\bin\Debug\net6.0\FileHandleDemo.dll
+D:\C# Programs\FileHandleDemo\bin\Debug\net6.0\FileHandleDemo.pdb
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.csproj.AssemblyReference.cache
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.AssemblyInfoInputs.cache
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.AssemblyInfo.cs
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.csproj.CoreCompileInputs.cache
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.dll
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\refint\FileHandleDemo.dll
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.pdb
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\FileHandleDemo.genruntimeconfig.cache
+D:\C# Programs\FileHandleDemo\obj\Debug\net6.0\ref\FileHandleDemo.dll
